@@ -59,7 +59,7 @@ export default function Home() {
         </div>
         <a
           className="mt-6 cursor-pointer"
-          href="https://github.com"
+          href="https://github.com/anmolm96/daily-kanye-quirrel"
           target="_blank"
         >
           <i className="fa fa-github"></i>
